@@ -52,4 +52,4 @@ Checkear si un AF = ER
 	reconocer el mismo lenguaje, de lo contrario no desplega un contraejemplo en pantalla. Tener en cuenta que solo verifica en el rango de tiras de "tiras.txt"
 	o en el rango de tiras menores a un largo dado dependiendo el uso que se le de al programa.
 
-Cualquier error, duda o sugerencia dejá un mensaje en nicolas.rivoir@fing.edu.uy. Espero que te sea de utilidad !!! :)
+Cualquier error, duda o sugerencia dejá un mensaje. Espero que te sea de utilidad !!! :)
