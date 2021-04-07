@@ -1,4 +1,10 @@
-Hola, Gracias por usar este programa.
+Hola, Gracias por usar este programa. 
+
+El propósito del mismo es crear un entorno amigable donde se pueda hacer uso de los autómatas finitos.
+Cuenta con una primera etapa que se encarga de leer los datos de archivos de entrada donde se lee la 
+definición del lenguaje y las tiras a leer. Luego una segunda parte que genera la salida tras correr 
+las tiras en el autómata definido.
+
 
 Cómo usarlo?
 
